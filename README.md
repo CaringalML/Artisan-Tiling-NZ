@@ -247,6 +247,10 @@ The infrastructure includes:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Note
+
+I do not own any images I use from the website I build, I just search from google.
+
 ## 📄 License
 
 This project is licensed under the ISC License.
